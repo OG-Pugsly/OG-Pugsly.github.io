@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\banks\\Projects\\The Programming Pug\\Game-Dev-Portfolio\\OG-Pugsly.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\banks\\Projects\\The Programming Pug\\Game-Dev-Portfolio\\OG-Pugsly.github.io\\infiniteScroll.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:infiniteScroll.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\banks\\Projects\\The Programming Pug\\Game-Dev-Portfolio\\OG-Pugsly.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\banks\\Projects\\The Programming Pug\\Game-Dev-Portfolio\\OG-Pugsly.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\banks\\Projects\\The Programming Pug\\Game-Dev-Portfolio\\OG-Pugsly.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "infiniteScroll.js",
-              "DocumentMoniker": "C:\\Users\\banks\\Projects\\The Programming Pug\\Game-Dev-Portfolio\\OG-Pugsly.github.io\\infiniteScroll.js",
-              "RelativeDocumentMoniker": "infiniteScroll.js",
-              "ToolTip": "C:\\Users\\banks\\Projects\\The Programming Pug\\Game-Dev-Portfolio\\OG-Pugsly.github.io\\infiniteScroll.js",
-              "RelativeToolTip": "infiniteScroll.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-08-02T15:36:45.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\banks\\Projects\\The Programming Pug\\Game-Dev-Portfolio\\OG-Pugsly.github.io\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -58,7 +41,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\banks\\Projects\\The Programming Pug\\Game-Dev-Portfolio\\OG-Pugsly.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-08-01T23:15:03.836Z",
               "EditorCaption": ""
