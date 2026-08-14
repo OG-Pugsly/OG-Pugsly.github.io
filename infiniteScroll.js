@@ -1,4 +1,4 @@
-const originalHeight = document.body.scrollHeight / 2;
+const originalHeight = document.body.scrollHeight;
 
 window.addEventListener("scroll", () => {
     if (window.scrollY >= originalHeight) {
